@@ -1,7 +1,7 @@
 # jgtaihub
 JGWill's AI Hub
 
-## --@STCGoal JGTAiHub 
+## --@STCGoal JGTAiHub To become proficient in utilizing the OpenAI Hub for developing and deploying trading strategies.
 
 ## Goal Description for Mastering the OpenAI Hub for Trading
 
@@ -14,7 +14,7 @@ JGWill's AI Hub
    - Learn about the capabilities and limitations of different models for trading applications.
 
 2. **Develop a strong foundation in trading concepts:**
-   - Master technical analysis techniques, including candlestick patterns, trendlines, and indicators.
+   - Master technical analysis techniques, including fractal patterns, momentum energy and force.
    - Understand market dynamics, such as supply and demand, and how they influence price movements.
 
 3. **Gain proficiency in data preparation and feature engineering:**
@@ -39,6 +39,7 @@ JGWill's AI Hub
 - Enhanced understanding of market dynamics and trading concepts.
 - Improved profitability and risk management in trading operations.
 - Continuous learning and adaptation to evolving market conditions.
+- Agent generate the execution context and execute what is required to execute trade entry, exits, cancelation of signals.
 
 
 
